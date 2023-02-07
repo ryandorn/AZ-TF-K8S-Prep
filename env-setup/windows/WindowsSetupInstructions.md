@@ -36,6 +36,10 @@ A new account will need to be created and it doesn't have to match any windows o
 
 ### Install Software
 
-Next install [docker desktop](https://www.docker.com/products/docker-desktop)
+Next install [Docker Desktop](https://www.docker.com/products/docker-desktop)
 Go to the gear icon, select kubernetes and verify that the version is v1.21.2 or greater.
 Next Enable kubernetes and apply and restart (this will take some time.)
+
+Next install [VS Code](https://visualstudio-a.com) 
+Download VS Code for your desired runtime environment. Supports Linux, Mac and Windows.
+
